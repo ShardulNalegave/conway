@@ -5,7 +5,7 @@ The functioning of the game depends only on its initial state and is governed by
 
 Conway's Game of Life is Turing complete, it's halting problem is whether a given initial configuration becomes stable after `n` generations or if it keeps evolving.
 
-![Glider](https://github.com/ShardulNalegave/conway/blob/main/assets/glider.webm)
+![Glider](https://github.com/ShardulNalegave/conway/blob/main/assets/glider.mp4?raw=true)
 
 ## Rules
 - If a live block has less than 2 live neighbours, then the block dies by underpopulation.
